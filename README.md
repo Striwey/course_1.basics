@@ -36,3 +36,5 @@
     Java        1.98      1.89      6.01
     JavaScript  4.45      6.52      4.59
     Python      75.88     71.90     2.80
+
+[Fuente] ("https://www.campusmvp.es/recursos/post/el-consumo-energetico-de-los-lenguajes-de-programacion.aspx")
