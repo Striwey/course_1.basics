@@ -17,7 +17,7 @@
   - JavaScript
   - Dart
 
-###Usos en el desarrollo
+### Usos en el desarrollo
 
 C y C++ comúnmente vistos en el desarrollo de sistemas operativos, videojuegos, y aplicaciones en la nube.
 Java - Kotlin desarrolo de aplicativos móviles, videojuegos y aplicaciones en la nube.
