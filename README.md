@@ -1,11 +1,15 @@
 # course_1.basics
-Curso de JavaScript o Python
+Curso de desarrollo de software 
 
 ## índice
 - Introducción al mundo del desarrollo del software
-  - Nociones basicas
   - Tipos de lenguajes de programación
   - Actualidad
+  - Nociones basicas
+  - Github
+- Bibliotecas de programación creativa
+  - P5.js
+  - Pyglet
 - Programación orientada a objetos
   - Objetos
   - Clases
@@ -19,6 +23,3 @@ Curso de JavaScript o Python
   - Arboles
   - Tablas hash
   - Grafos
-- Bibliotecas de programación creativa
-  - P5.js
-  - Pyglet
