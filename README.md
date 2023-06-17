@@ -20,10 +20,15 @@
 ### Usos en el desarrollo
 
 C y C++ comúnmente vistos en el desarrollo de sistemas operativos, videojuegos, y aplicaciones en la nube.
+
 Java - Kotlin desarrolo de aplicativos móviles, videojuegos y aplicaciones en la nube.
+
 Python, es un lenguaje multiparadigma, usado en aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML).
+
 JavaScript, también multiparadigma, de uso general en el desarrollo web.
+
 Dart, aplicaciones móviles, web y de escritorio, siendo las dos ultimas experimentales, aun falta soporte. (Multiplataforma con el Framework Flutter)
+
 
                 Energy    Time      Mb
     C           1.00      1.00      1.17
