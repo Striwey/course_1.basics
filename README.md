@@ -23,3 +23,12 @@ Curso de desarrollo de software
   - Arboles
   - Tablas hash
   - Grafos
+
+## Recursos
+
+- www.w3schools.com/js/
+- www.w3schools.com/python/
+- https://p5js.org/
+- https://pyglet.readthedocs.io/en/latest/
+- www.codeabbey.com
+- https://projecteuler.net
